@@ -1,0 +1,21 @@
+Api vPDUddtt3jzQkYuqdEYZt9VjVjh59d357aSZqyswC9Uj
+url https://api.au-syd.assistant.watson.cloud.ibm.com/instances/c0b8cb69-8463-4461-a686-c95fa3c6ae87/v2/assistants/9c3fd12b-541b-4ea7-a01f-3e362f87a596/sessions
+
+api 
+vPDUddtt3jzQkYuqdEYZt9VjVjh59d357aSZqyswC9Uj
+url
+https://api.au-syd.assistant.watson.cloud.ibm.com/instances/c0b8cb69-8463-4461-a686-c95fa3c6ae87/v1/workspaces/1a0ee68c-e207-48e7-b8e6-013e3c8a2ba2/message
+assistant ID
+8a1ddd60-ea8d-49e6-a94d-86402e513878
+
+stt
+api Si3v27tjCvbRwLQYgOP93IhSUS8r3nbjaH7sDosNDJU4
+url https://api.jp-tok.speech-to-text.watson.cloud.ibm.com/instances/61359778-f80f-40ed-aec9-815e93b004e8
+
+tts
+api -EkoeHApJJRAomBXIp7QVFKC0OEURrgFHWFNeqlzWJoR
+url https://api.jp-tok.text-to-speech.watson.cloud.ibm.com/instances/c444ad6c-9ccb-4852-946a-74ac57021c6d
+
+
+123.7
+124.3

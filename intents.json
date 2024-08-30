@@ -1,0 +1,44 @@
+{"intents": [
+        {"tag": "greeting",
+         "patterns": ["おはようございます", "こんにちは", "お疲れ様です"],
+         "responses": ["おはようございます", "こんにちは", "お疲れ様です"],
+         "context": [""]
+        },
+        {"tag": "goodbye",
+         "patterns": ["さよなら"],
+         "responses": ["さよなら"],
+         "context": [""]
+        },
+        {"tag": "name",
+         "patterns": ["だれ", "誰ですか"],
+         "responses": ["名前は予定ボットです。"],
+         "context": [""]
+        },
+        {"tag": "thanks",
+         "patterns": ["ありがとうございました", "ありがとう", "ありがとうございます"],
+         "responses": ["どういたしまして", "構いませんよ"],
+         "context": [""]
+        },
+	{"tag": "plans",
+         "patterns": ["予定を教えてください", "予定がなですか","予定"],
+         "responses": ["ごめんなさい。この機能は構築中です。"],
+         "context": [""]
+        },
+	{"tag": "make plan",
+         "patterns": ["予定を覚えてください", "予定を覚える","覚えてください"],
+         "responses": ["ごめんなさい。この機能は構築中です。"],
+         "context": [""]
+        },
+	{"tag": "genki",
+         "patterns": ["元気ですか", "元気","どうですか"],
+         "responses": ["はい、元気です！"],
+         "context": [""]
+        },
+	{"tag": "noanswer",
+         "patterns": [],
+         "responses": ["すみませんがもう一回お願いします", "すみませんが聞こえなかったです。", "すみませんがちょっと理解ができなかった"],
+         "context": [""]
+        }
+   ]
+}
+	
